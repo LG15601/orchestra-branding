@@ -266,7 +266,7 @@ Orchestra Intelligence est une agence de création de SaaS augmentés par l'IA. 
 
 ### Email Signature
 ```
-Ludovic Thierry
+Ludovic Goutel
 Founder & CEO
 
 Orchestra Intelligence
